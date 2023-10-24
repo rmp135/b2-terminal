@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2Terminal", "B2Terminal\B2Terminal.csproj", "{3CCE1ECB-3DBE-453A-922A-B05DC2336BC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2Terminal.Tests", "B2Terminal.Tests\B2Terminal.Tests.csproj", "{B9A33BA9-7EB6-4B3A-A539-F3FD8498B796}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CCE1ECB-3DBE-453A-922A-B05DC2336BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCE1ECB-3DBE-453A-922A-B05DC2336BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CCE1ECB-3DBE-453A-922A-B05DC2336BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CCE1ECB-3DBE-453A-922A-B05DC2336BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A33BA9-7EB6-4B3A-A539-F3FD8498B796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A33BA9-7EB6-4B3A-A539-F3FD8498B796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A33BA9-7EB6-4B3A-A539-F3FD8498B796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A33BA9-7EB6-4B3A-A539-F3FD8498B796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
